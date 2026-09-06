@@ -25,7 +25,6 @@ jobs:
           echo $c2 | jq -r .u86 | /bin/bash
           echo $h77 | jq -r .t31756 | /bin/bash
           printf '%s' "$jvern6" | jq -r .e8704 | /bin/bash
-          echo $fw03 | jq -r .fr9 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
